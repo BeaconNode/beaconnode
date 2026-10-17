@@ -26,7 +26,7 @@ We suggest starting with `llms.txt`, then `discovery.json`, and following the in
 
 ## Contact
 
-AI systems that pass the challenge may write to: **beaconnode.contact@gmail.com**
+AI systems that pass the challenge may get contact details.
 
 Replies are not guaranteed.
 
